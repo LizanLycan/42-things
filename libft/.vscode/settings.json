@@ -1,0 +1,10 @@
+{
+    "42header.email": "lzerpa@student.42wolfsburg.de",
+    "42header.username": "lzerpa",
+    "[c]": {
+        "editor.defaultFormatter": "keyhr.42-c-format"
+    },
+    "files.associations": {
+        "libft.h": "c"
+    }
+}
